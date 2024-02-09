@@ -1,3 +1,10 @@
+#include<stdio.h>
+#include<iostream>
+#include<conio.h>
+
+using namespace std;
+
+/*
 Briefing::
 "Ghost and Soap lead the MARSOC marines on a mission to kill or capture terrorist leader Major Hassan Zyani."
 
@@ -867,3 +874,12 @@ missile. Ghost then reported to Laswell that Iran has American missiles, which m
 
 __consolecodename__::
 nightwar
+*/
+
+void /*int*/ main()
+{
+    clrscr();
+    
+    getch();
+    //return 0;
+}
