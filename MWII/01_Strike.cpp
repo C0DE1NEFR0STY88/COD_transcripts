@@ -1,3 +1,10 @@
+#include<stdio.h>
+#include<iostream>
+#include<conio.h>
+
+using namespace std;
+
+/*
 Briefing::
 "On a recon mission in Al Mazrah, Ghost, Shepherd, Laswell and Shadow Co take out a high value target."
 
@@ -175,3 +182,12 @@ deal was happening, killing everybody, including Ghorbrani.
 
 __consolecodename__:: 
 strike
+*/
+
+void /*int*/ main()
+{
+    clrscr();
+    
+    getch();
+    //return 0;
+}
