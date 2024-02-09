@@ -172,3 +172,6 @@ Quds Force, through the usage of the spotter scope. Ghost waited for the dust to
 receiving confirmation from Ghost, a ballistic missile is launched from a modified truck, which is controlled by Commander 
 Phillip Graves of Shadow Company. Graves carefully guided the missile to its destination, hitting the site where the arms 
 deal was happening, killing everybody, including Ghorbrani.
+
+__consolecodename__:: 
+strike
