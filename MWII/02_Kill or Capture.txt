@@ -15,3 +15,6 @@ Transcript::
 ================================================
 
 __Plot__::
+
+__consolecodename__::
+nightwar
